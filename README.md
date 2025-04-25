@@ -15,7 +15,23 @@ Trata-se de um app Android simples com foco em fundamentos de `Kotlin`, `Android
 ---
 
 ## 📁 Estrutura de Pastas
-
+MeuprimeiroAppDio/
+├── app/
+│   ├── build.gradle
+│   └── src/
+│       └── main/
+│           ├── AndroidManifest.xml
+│           ├── java/
+│           │   └── br/
+│           │       └── com/
+│           │           └── dio/
+│           │               └── meuprimeiroappdio/
+│           │                   └── MainActivity.kt
+│           └── res/
+│               └── layout/
+│                   └── activity_main.xml
+├── build.gradle
+└── README.md
 
 ---
 
