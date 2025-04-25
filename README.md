@@ -1,52 +1,37 @@
-# Meu Primeiro App Dio 📱
+# MeuprimeiroAppDio
 
-Este é um aplicativo Android desenvolvido em Kotlin como parte do **desafio prático do Bootcamp Santander 2023**, promovido pela
-[Digital Innovation One (DIO)](https://web.dio.me/). O projeto tem como objetivo aplicar conceitos básicos de desenvolvimento mobile 
-com foco em interação de interface e manipulação de elementos via código.
+Este projeto foi desenvolvido como parte de um desafio proposto no curso de Android da [DIO (Digital Innovation One)](https://www.dio.me/).  
+Trata-se de um app Android simples com foco em fundamentos de `Kotlin`, `Android Studio`, `ViewBinding` e `Componentes de UI`.
+
+---
 
 ## 🚀 Funcionalidades
 
-- Exibição de uma mensagem inicial.
-- Alteração dinâmica do texto via botão com `setOnClickListener`.
+- Apresentação de uma mensagem na tela.
+- Botão que altera o texto exibido.
+- Utilização de `ViewBinding` (se habilitado).
+- Estrutura de projeto Android com `Gradle`, `ConstraintLayout`, e `AppCompat`.
+
+---
+
+## 📁 Estrutura de Pastas
+
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
 - **Kotlin**
-- **Android SDK 33**
-- **View System (XML)**
-- **ViewBinding**
-- **ConstraintLayout**
 - **Android Studio**
+- **Gradle**
+- **ConstraintLayout**
+- **AppCompat**
+- **ViewBinding** *(opcional, pode ser ativado em build.gradle)*
 
-## 📁 Estrutura de Pastas
+---
 
-MeuprimeiroAppDio/
-│
-├── app/
-│   ├── build.gradle
-│   └── src/
-│       └── main/
-│           ├── AndroidManifest.xml
-│           ├── java/
-│           │   └── br/
-│           │       └── com/
-│           │           └── dio/
-│           │               └── meuprimeiroappdio/
-│           │                   └── MainActivity.kt
-│           └── res/
-│               └── layout/
-│                   └── activity_main.xml
-│
-├── build.gradle
-└── README.md
+## 📦 Como Executar
 
-
-
-
-
-📌 Como executar o projeto
-Clone este repositório:
-git clone https://github.com/fernandorubini/MeuprimeiroAppDio.git
-
-📝 Licença
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para mais detalhes.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/fernandorubini/MeuprimeiroAppDio.git
