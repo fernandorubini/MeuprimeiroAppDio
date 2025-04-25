@@ -40,6 +40,10 @@ MeuprimeiroAppDio/
 ├── build.gradle
 └── README.md
 
+
+
+
+
 📌 Como executar o projeto
 Clone este repositório:
 git clone https://github.com/fernandorubini/MeuprimeiroAppDio.git
