@@ -1,7 +1,7 @@
 # MeuprimeiroAppDio
 
-![Kotlin](https://img.shields.io/badge/Kotlin-blue?logo=java)
-![Status](https://img.shields.io/badge/Status-Desenvolvido-yellow)
+![Status](https://img.shields.io/badge/status-finalizado-yellow)
+![Java](https://img.shields.io/badge/language-Java17-blue)
 ![Atualizado](https://img.shields.io/badge/Atualizado-2025-brightgreen)
 
 Este projeto foi desenvolvido como parte de um desafio proposto no curso de Android da [DIO (Digital Innovation One)](https://www.dio.me/).  
