@@ -1,5 +1,9 @@
 # MeuprimeiroAppDio
 
+![Kotlin](https://img.shields.io/badge/Java-17-blue?logo=java)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Atualizado](https://img.shields.io/badge/Atualizado-2025-brightgreen)
+
 Este projeto foi desenvolvido como parte de um desafio proposto no curso de Android da [DIO (Digital Innovation One)](https://www.dio.me/).  
 Trata-se de um app Android simples com foco em fundamentos de `Kotlin`, `Android Studio`, `ViewBinding` e `Componentes de UI`.
 
