@@ -33,7 +33,6 @@ MeuprimeiroAppDio/
 ├── build.gradle
 └── README.md
 
----
 
 ## 🛠️ Tecnologias Utilizadas
 
