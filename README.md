@@ -15,6 +15,9 @@ Trata-se de um app Android simples com foco em fundamentos de `Kotlin`, `Android
 ---
 
 ## 📁 Estrutura de Pastas
+
+```text
+
 MeuprimeiroAppDio/
 ├── app/
 │   ├── build.gradle
@@ -45,7 +48,7 @@ MeuprimeiroAppDio/
 - **AppCompat**
 - **ViewBinding** *(opcional, pode ser ativado em build.gradle)*
 
----
+```
 
 ## 📦 Como Executar
 
