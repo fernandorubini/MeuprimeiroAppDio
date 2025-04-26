@@ -1,6 +1,6 @@
 # MeuprimeiroAppDio
 
-![Kotlin](https://img.shields.io/badge/Java-17-blue?logo=java)
+![Kotlin](https://img.shields.io/badge/Kotlin-blue?logo=java)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![Atualizado](https://img.shields.io/badge/Atualizado-2025-brightgreen)
 
